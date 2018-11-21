@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[5],{301:function(n,o,i){"use strict";i.r(o);i(47),i(302);$(".login-btn").on("click",function(){window.location.href="../index.html"})},302:function(n,o,i){}},[[301,2,0,1]]]);
